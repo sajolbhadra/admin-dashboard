@@ -11,7 +11,7 @@ import Dashboard from "./Dashboard/Dashboard";
 import PrivateRoute from "./PrivateRoute/PrivateRoute";
 import MakeAdmin from "./MakeAdmin/MakeAdmin";
 import Users from "./Users/Users";
-import AddTask from "./AddTask.js/AddTask";
+import AddTask from "./AddTask/AddTask";
 
 function App() {
   return (
